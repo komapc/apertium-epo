@@ -1404,11 +1404,17 @@
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vblex"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>onta</l>      <r>i<s n="vblex"/><s n="pp2"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vblex"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vblex"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1423,8 +1429,11 @@
   <e r="RL"><p><l>itaj</l>      <r>i<s n="vblex"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>igi</l>       <r>i<s n="vblex"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vblex"/><s n="igi"/><s n="pres"/></r></p></e>
@@ -1440,11 +1449,17 @@
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igonta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1458,8 +1473,11 @@
   <e r="RL"><p><l>igitaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>iĝi</l>       <r>i<s n="vblex"/><s n="iĝi"/><s n="inf"/></r></p></e>
   <e>       <p><l>iĝas</l>      <r>i<s n="vblex"/><s n="iĝi"/><s n="pres"/></r></p></e>
@@ -1477,9 +1495,12 @@
   <e>       <p><l>iĝanta</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝantaj</l>   <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝatan</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantan</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>iĝatajn</l>   <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantajn</l>   <r>i<s n="vblex"/><s n="iĝi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝanta</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>iĝatan</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>iĝantan</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝonta</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>iĝonta</l>    <r>i<s n="vblex"/><s n="iĝi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>iĝontaj</l>   <r>i<s n="vblex"/><s n="iĝi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1514,11 +1535,17 @@
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>onta</l>      <r>i<s n="vbtr"/><s n="pp2"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1533,8 +1560,11 @@
   <e r="RL"><p><l>itaj</l>      <r>i<s n="vbtr"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>igi</l>       <r>i<s n="vbtr"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vbtr"/><s n="igi"/><s n="pres"/></r></p></e>
@@ -1550,11 +1580,17 @@
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igonta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1568,8 +1604,11 @@
   <e r="RL"><p><l>igitaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>iĝi</l>       <r>i<s n="vbtr"/><s n="iĝi"/><s n="inf"/></r></p></e>
   <e>       <p><l>iĝas</l>      <r>i<s n="vbtr"/><s n="iĝi"/><s n="pres"/></r></p></e>
@@ -1587,9 +1626,12 @@
   <e>       <p><l>iĝanta</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝantaj</l>   <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝatan</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantan</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>iĝatajn</l>   <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantajn</l>   <r>i<s n="vbtr"/><s n="iĝi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝanta</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>iĝatan</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>iĝantan</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝonta</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>iĝonta</l>    <r>i<s n="vbtr"/><s n="iĝi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>iĝontaj</l>   <r>i<s n="vbtr"/><s n="iĝi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1845,11 +1887,17 @@
   <e r="RL"><p><l>igita</l>     <r>igi<s n="vbtr"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>igi<s n="vbtr"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>igi<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>igi<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>igi<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>igi<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>igi<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>igi<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>igi<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>igi<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>igi<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igonta</l>    <r>igi<s n="vbtr"/><s n="pp2"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>igi<s n="vbtr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>igi<s n="vbtr"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1864,8 +1912,11 @@
   <e r="RL"><p><l>igitaj</l>    <r>igi<s n="vbtr"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>igi<s n="vbtr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>igi<s n="vbtr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>igi<s n="vbtr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>iĝi</l>       <r>igi<s n="vbtr"/><s n="iĝi"/><s n="inf"/></r></p></e>
   <e>       <p><l>iĝas</l>      <r>igi<s n="vbtr"/><s n="iĝi"/><s n="pres"/></r></p></e>
@@ -1917,11 +1968,17 @@
   <e r="RL"><p><l>igita</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igonta</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>igi<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1936,8 +1993,11 @@
   <e r="RL"><p><l>igitaj</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>igi<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e r="RL"><p><l>igite</l>     <r>igi<s n="adv"/></r></p></e>
 </pardef>
@@ -1957,11 +2017,17 @@
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>onta</l>      <r>i<s n="vbtr_ntr"/><s n="pp2"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -1976,8 +2042,11 @@
   <e r="RL"><p><l>itaj</l>      <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e>       <p><l>iĝi</l>       <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="inf"/></r></p></e>
   <e>       <p><l>iĝas</l>      <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="pres"/></r></p></e>
@@ -1995,9 +2064,12 @@
   <e>       <p><l>iĝanta</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝantaj</l>   <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>iĝatan</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantan</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>iĝatajn</l>   <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>iĝantajn</l>   <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝanta</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>iĝatan</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>iĝantan</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>iĝonta</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>iĝonta</l>    <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>iĝontaj</l>   <r>i<s n="vbtr_ntr"/><s n="iĝi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -2028,11 +2100,17 @@
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="sp"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igonta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
@@ -2046,8 +2124,11 @@
   <e r="RL"><p><l>igitaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
 
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
@@ -2540,13 +2621,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vblex"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vblex"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vblex"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vblex"/><s n="pp3"/></r></p></e>
@@ -2561,9 +2650,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e>       <p><l>igi</l>       <r>i<s n="vblex"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vblex"/><s n="igi"/><s n="pres"/></r></p></e>
@@ -2581,13 +2674,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -2601,9 +2702,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
@@ -2625,13 +2730,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vbtr"/><s n="pp3"/></r></p></e>
@@ -2646,9 +2759,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e>       <p><l>igi</l>       <r>i<s n="vbtr"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vbtr"/><s n="igi"/><s n="pres"/></r></p></e>
@@ -2666,13 +2783,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -2686,9 +2811,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
@@ -2880,13 +3009,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vbtr_ntr"/><s n="pp3"/></r></p></e>
@@ -2901,9 +3038,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e>       <p><l>igi</l>       <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pres"/></r></p></e>
@@ -2921,13 +3062,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -2941,9 +3090,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
 
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
@@ -3443,13 +3596,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vblex"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vblex"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vblex"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vblex"/><s n="pp3"/></r></p></e>
@@ -3464,9 +3625,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vblex"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vblex"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vblex"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vblex"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vblex"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e>       <p><l>igi</l>       <r>i<s n="vblex"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vblex"/><s n="igi"/><s n="pres"/></r></p></e>
   <e>       <p><l>igis</l>      <r>i<s n="vblex"/><s n="igi"/><s n="past"/></r></p></e>
@@ -3483,13 +3648,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vblex"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vblex"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -3503,9 +3676,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vblex"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vblex"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vblex"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
 
@@ -3526,13 +3703,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vbtr"/><s n="pp3"/></r></p></e>
@@ -3547,9 +3732,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e>       <p><l>igi</l>       <r>i<s n="vbtr"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vbtr"/><s n="igi"/><s n="pres"/></r></p></e>
   <e>       <p><l>igis</l>      <r>i<s n="vbtr"/><s n="igi"/><s n="past"/></r></p></e>
@@ -3566,13 +3755,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -3586,9 +3783,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
 
@@ -3775,13 +3976,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>itan</l>      <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>atajn</l>     <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>antajn</l>     <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>atan</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>antan</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>onta</l>      <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ontaj</l>     <r>i<s n="vbtr_ntr"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>inta</l>      <r>i<s n="vbtr_ntr"/><s n="pp3"/></r></p></e>
@@ -3796,9 +4005,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ita</l>       <r>i<s n="vbtr_ntr"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>ataj</l>      <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>antaj</l>      <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>ata</l>       <r>i<s n="vbtr_ntr"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>anta</l>       <r>i<s n="vbtr_ntr"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e>       <p><l>igi</l>       <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="inf"/></r></p></e>
   <e>       <p><l>igas</l>      <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pres"/></r></p></e>
   <e>       <p><l>igis</l>      <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="past"/></r></p></e>
@@ -3815,13 +4028,21 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igitan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/><s n="acc"/></r></p></e>
   <e>       <p><l>igatajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e>       <p><l>igantajn</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/><s n="acc"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="nom"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="nom"/></r></p></e>
   <e r="RL"><p><l>igatan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/><s n="acc"/></r></p></e>
+  <e r="RL"><p><l>igantan</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/><s n="acc"/></r></p></e>
   <e>       <p><l>igonta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="sg"/></r></p></e>
   <e>       <p><l>igontaj</l>   <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp2"/><s n="pl"/></r></p></e>
   <e>       <p><l>iginta</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp3"/></r></p></e>
@@ -3835,9 +4056,13 @@ la traduko povas atribui al ili eraran pluralon (temas esence pri propraj nomoj,
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igita</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="pp"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>igataj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>igantaj</l>    <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l>igata</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="ppres"/><s n="ND"/></r></p></e>
+  <e r="RL"><p><l>iganta</l>     <r>i<s n="vbtr_ntr"/><s n="igi"/><s n="geradj"/><s n="ND"/></r></p></e>
   <e r="RL"><p><l>ite</l>       <r>i<s n="adv"/></r></p></e>
 </pardef>
 
